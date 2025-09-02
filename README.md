@@ -50,12 +50,6 @@ Hi! I'm **Dhanashri Patil**, a dedicated developer focused on building impactful
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="border-radius:50%;background:#fff;padding:5px;" /><br/>Node.js
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" style="border-radius:50%;background:#fff;padding:5px;" /><br/>Express.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="border-radius:50%;background:#fff;padding:5px;" /><br/>MongoDB
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="border-radius:50%;background:#fff;padding:5px;" /><br/>Git
     </td>
     <td align="center">
@@ -116,8 +110,8 @@ Here are some screenshots of the portfolio:
 
 ## 📬 Contact
 
-- **Email:** dhanashripatil@example.com
-- **LinkedIn:** [Dhanashri Patil](https://linkedin.com/in/dhanashripatil)
+- **Email:** patil.dhanashrik@gmail.com
+- **LinkedIn:** [Dhanashri Patil](https://linkedin.com/in/dhanashri-patil11)
 - **GitHub:** [DhanashriPatil11](https://github.com/DhanashriPatil11)
 
 ---
