@@ -102,7 +102,7 @@ Here are some screenshots of the portfolio:
 
 | Home Page | Projects Page | Contact Page |
 |-----------|---------------|--------------|
-| ![Home Screenshot](https://raw.githubusercontent.com/DhanashriPatil11/dhanashri-dev-portfolio/main/screenshots/home.png) | ![Projects Screenshot](https://raw.githubusercontent.com/DhanashriPatil11/dhanashri-dev-portfolio/main/screenshots/projects.png) | ![Contact Screenshot](https://raw.githubusercontent.com/DhanashriPatil11/dhanashri-dev-portfolio/main/screenshots/contact.png) |
+| ![HomePage Screenshot](Screenshots/Screenshot 2025-09-02 222114.png) | ![Porfolio Screenshot 1](Screenshots/Screenshot 2025-09-02 222608.png)<br>![Porfolio Screenshot 2](Screenshots/Screenshot 2025-09-02 222633.png)<br>![Porfolio Screenshot 3](Screenshots/Screenshot 2025-09-02 222704.png)| ![ContactPage Screenshot](Screenshots/Screenshot 2025-09-02 222725.png) |
 
 > _You can add more screenshots by uploading images to the `screenshots` folder in your repository and updating these links._
 
