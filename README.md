@@ -102,7 +102,7 @@ Here are some screenshots of the portfolio:
 
 | Home Page | Projects Page | Contact Page |
 |-----------|---------------|--------------|
-| ![HomePage Screenshot](Screenshots/Screenshot 2025-09-02 222114.png) | ![Porfolio Screenshot 1](Screenshots/Screenshot 2025-09-02 222608.png)<br>![Porfolio Screenshot 2](Screenshots/Screenshot 2025-09-02 222633.png)<br>![Porfolio Screenshot 3](Screenshots/Screenshot 2025-09-02 222704.png)| ![ContactPage Screenshot](https://github.com/DhanashriPatil11/dhanashri-dev-portfolio/blob/beb405711cf08d1bc48451e0f1ab68b6ec23b843/Screenshots/Screenshot%202025-09-02%20222725.png) |
+| ![HomePage Screenshot](https://github.com/DhanashriPatil11/dhanashri-dev-portfolio/blob/b956f6af853d738fbf5fbfb6c4e6499b7f054258/Screenshots/Screenshot%202025-09-02%20222114.png) | ![Porfolio Screenshot 1](https://github.com/DhanashriPatil11/dhanashri-dev-portfolio/blob/b956f6af853d738fbf5fbfb6c4e6499b7f054258/Screenshots/Screenshot%202025-09-02%20222608.png)<br>![Porfolio Screenshot 2](https://github.com/DhanashriPatil11/dhanashri-dev-portfolio/blob/b956f6af853d738fbf5fbfb6c4e6499b7f054258/Screenshots/Screenshot%202025-09-02%20222633.png)<br>![Porfolio Screenshot 3](https://github.com/DhanashriPatil11/dhanashri-dev-portfolio/blob/b956f6af853d738fbf5fbfb6c4e6499b7f054258/Screenshots/Screenshot%202025-09-02%20222704.png)| ![ContactPage Screenshot](https://github.com/DhanashriPatil11/dhanashri-dev-portfolio/blob/beb405711cf08d1bc48451e0f1ab68b6ec23b843/Screenshots/Screenshot%202025-09-02%20222725.png) |
 
 > _You can add more screenshots by uploading images to the `screenshots` folder in your repository and updating these links._
 
