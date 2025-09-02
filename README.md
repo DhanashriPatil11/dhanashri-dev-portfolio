@@ -92,7 +92,7 @@ dhanashri-dev-portfolio/
    ```bash
    npm start
    ```
-4. Open [http://localhost:3000](http://localhost:3000) to view in your browser.
+4. Open [http://localhost:8082](http://localhost:8082) to view in your browser.
 
 ---
 
@@ -119,7 +119,7 @@ Here are some screenshots of the portfolio:
 ## ⭐ Acknowledgements
 
 - Thanks to the open source community for inspiration and resources.
-- Special mention to all collaborators and supporters!
+
 
 ---
 
